@@ -1,0 +1,28 @@
+[
+
+  {
+    "Author": "Karlin",
+    "Name": "PvPSelector",
+    "Description": "pvp自动选中血量低的敌人",
+    "InternalName": "PvPSelector",
+    "AssemblyVersion": "2.1.5.40",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "Tags": [
+      "PvP",
+      "Auto",
+      "Karlin"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "PvP helper",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip"
+  }
+]
