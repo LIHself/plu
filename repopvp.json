@@ -21,8 +21,8 @@
     "LoadPriority": 0,
     "Punchline": "PvP helper",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip"
+    "DownloadLinkInstall": "https://liqiu.love/https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
+    "DownloadLinkTesting": "https://liqiu.love/https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
+    "DownloadLinkUpdate": "https://liqiu.love/https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip"
   }
 ]
